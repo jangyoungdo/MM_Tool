@@ -9,3 +9,6 @@
   5. 생성한 모델들 성능 비교
 
   
+![image](https://github.com/user-attachments/assets/4d1438bb-2a15-4e55-997c-f278b757e845)
+
+![image](https://github.com/user-attachments/assets/68e750a6-2b54-4e98-92cb-2ed6963010be)
